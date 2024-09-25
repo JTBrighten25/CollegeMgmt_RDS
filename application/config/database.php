@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'testmig.cxi82go2u7hz.us-east-1.rds.amazonaws.com',
-	'username' => 'admin',
-	'password' => 'admin123',
+	'hostname' => 'azjohn.mysql.database.azure.com',
+	'username' => 'johntraininguser',
+	'password' => 'aztrainTau#425',
 	'database' => 'college_mgmt',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
